@@ -1,0 +1,1095 @@
+[
+  {
+    "pueblo": 1,
+    "spawn": {
+      "coordX": 960,
+      "coordY": 1122
+    },
+    "casas": [
+      {
+        "casa": 0,
+        "npc": [
+          {
+            "npcID": 0,
+            "coordenadas": {
+              "coordX": 1290,
+              "coordY": 1118
+            }
+          }
+        ]
+      },
+      {
+        "casa": 1,
+        "tamaño": "grande",
+        "coords": {
+          "coordX": 1504,
+          "coordY": 1666
+        },
+        "npc": [
+          {
+            "npcID": 1,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -106
+            }
+          },
+          {
+            "npcID": 2,
+            "coordenadas": {
+              "coordX": -118,
+              "coordY": -78
+            }
+          },
+          {
+            "npcID": 3,
+            "coordenadas": {
+              "coordX": -120,
+              "coordY": 174
+            }
+          },
+          {
+            "npcID": 4,
+            "coordenadas": {
+              "coordX": 228,
+              "coordY": 210
+            }
+          }
+        ]
+      },
+      {
+        "casa": 2,
+        "tamaño": "grande",
+        "coords": {
+          "coordX": 1796,
+          "coordY": 1762
+        },
+        "npc": [
+          {
+            "npcID": 5,
+            "coordenadas": {
+              "coordX": -84,
+              "coordY": -84
+            }
+          },
+          {
+            "npcID": 6,
+            "coordenadas": {
+              "coordX": -2,
+              "coordY": 214
+            }
+          },
+          {
+            "npcID": 7,
+            "coordenadas": {
+              "coordX": 238,
+              "coordY": 224
+            }
+          }
+        ]
+      },
+      {
+        "casa": 3,
+        "tamaño": "pequeño",
+        "coords": {
+          "coordX": 2084,
+          "coordY": 1600
+        },
+        "npc": [
+          {
+            "npcID": 8,
+            "coordenadas": {
+              "coordX": 16,
+              "coordY": 146
+            }
+          },
+          {
+            "npcID": 9,
+            "coordenadas": {
+              "coordX": -146,
+              "coordY": 142
+            }
+          },
+          {
+            "npcID": 10,
+            "coordenadas": {
+              "coordX": 178,
+              "coordY": 170
+            }
+          }
+        ]
+      },
+      {
+        "casa": 4,
+        "tamaño": "pequeño",
+        "coords": {
+          "coordX": 2336,
+          "coordY": 1728
+        },
+        "npc": [
+          {
+            "npcID": 11,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -98
+            }
+          },
+          {
+            "npcID": 12,
+            "coordenadas": {
+              "coordX": 178,
+              "coordY": 170
+            }
+          },
+          {
+            "npcID": 13,
+            "coordenadas": {
+              "coordX": 16,
+              "coordY": 146
+            }
+          },
+          {
+            "npcID": 14,
+            "coordenadas": {
+              "coordX": -146,
+              "coordY": 142
+            }
+          }
+        ]
+      },
+      {
+        "casa": 5,
+        "tamaño": "pequeño",
+        "coords": {
+          "coordX": 2590,
+          "coordY": 1852
+        },
+        "npc": [
+          {
+            "npcID": 15,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -98
+            }
+          },
+          {
+            "npcID": 16,
+            "coordenadas": {
+              "coordX": 178,
+              "coordY": 170
+            }
+          },
+          {
+            "npcID": 17,
+            "coordenadas": {
+              "coordX": 16,
+              "coordY": 146
+            }
+          },
+          {
+            "npcID": 18,
+            "coordenadas": {
+              "coordX": -146,
+              "coordY": 142
+            }
+          },
+          {
+            "npcID": 19,
+            "coordenadas": {
+              "coordX": -162,
+              "coordY": -98
+            }
+          }
+        ]
+      },
+      {
+        "casa": 6,
+        "tamaño": "grande",
+        "coords": {
+          "coordX": 2528,
+          "coordY": 2050
+        },
+        "npc": [
+          {
+            "npcID": 20,
+            "coordenadas": {
+              "coordX": 256,
+              "coordY": -142
+            }
+          },
+          {
+            "npcID": 21,
+            "coordenadas": {
+              "coordX": 128,
+              "coordY": -78
+            }
+          },
+          {
+            "npcID": 22,
+            "coordenadas": {
+              "coordX": -186,
+              "coordY": -90
+            }
+          },
+          {
+            "npcID": 23,
+            "coordenadas": {
+              "coordX": -154,
+              "coordY": 174
+            }
+          },
+          {
+            "npcID": 24,
+            "coordenadas": {
+              "coordX": 0,
+              "coordY": 240
+            }
+          },
+          {
+            "npcID": 25,
+            "coordenadas": {
+              "coordX": 222,
+              "coordY": 210
+            }
+          },
+          {
+            "npcID": 26,
+            "coordenadas": {
+              "coordX": 242,
+              "coordY": 62
+            }
+          }
+        ]
+      },
+      {
+        "casa": 7,
+        "tamaño": "pequeño",
+        "coords": {
+          "coordX": 2208,
+          "coordY": 2126
+        },
+        "npc": [
+          {
+            "npcID": 27,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -98
+            }
+          },
+          {
+            "npcID": 28,
+            "coordenadas": {
+              "coordX": 178,
+              "coordY": 170
+            }
+          },
+          {
+            "npcID": 29,
+            "coordenadas": {
+              "coordX": 16,
+              "coordY": 146
+            }
+          },
+          {
+            "npcID": 30,
+            "coordenadas": {
+              "coordX": -146,
+              "coordY": 142
+            }
+          }
+        ]
+      }
+    ],
+    "mazmorras": {
+      "mazmorraEntrada": {
+        "coordX": 222,
+        "coordY": 1588
+      },
+      "mazmorraPuerta": {
+        "coordX": 16,
+        "coordY": -304
+      },
+      "mazmorraSalida": {
+        "coordX": -130,
+        "coordY": 268
+      },
+      "npc" : [
+        {
+          "npcID": 0,
+          "coordenadas": {
+            "coordX": -110,
+            "coordY": -214
+          }
+        },
+        {
+          "npcID": 1,
+          "coordenadas": {
+            "coordX": 246,
+            "coordY": -110
+          }
+        },
+        {
+          "npcID": 2,
+          "coordenadas": {
+            "coordX": -130,
+            "coordY": -110
+          }
+        },
+        {
+          "npcID": 3,
+          "coordenadas": {
+            "coordX": -202,
+            "coordY": 40
+          }
+        },
+        {
+          "npcID": 4,
+          "coordenadas": {
+            "coordX": 152,
+            "coordY": 40
+          }
+        },
+        {
+          "npcID": 5,
+          "coordenadas": {
+            "coordX": 186,
+            "coordY": 232
+          }
+        },
+        {
+          "npcID": 6,
+          "coordenadas": {
+            "coordX": -32,
+            "coordY": 244
+          }
+        }
+      ]
+    }
+  },
+  {
+    "pueblo": 2,
+    "spawn": {
+      "coordX": 70,
+      "coordY": 1934
+    },
+    "casas": [
+      {
+        "casa": 1,
+        "tamaño": "grande",
+        "coords": {
+          "coordX": -1280,
+          "coordY": 2040
+        },
+        "npc": [
+          {
+            "npcID": 31,
+            "coordenadas": {
+              "coordX": 256,
+              "coordY": -142
+            }
+          },
+          {
+            "npcID": 32,
+            "coordenadas": {
+              "coordX": 128,
+              "coordY": -78
+            }
+          },
+          {
+            "npcID": 33,
+            "coordenadas": {
+              "coordX": -78,
+              "coordY": -90
+            }
+          },
+          {
+            "npcID": 34,
+            "coordenadas": {
+              "coordX": -226,
+              "coordY": -90
+            }
+          },
+          {
+            "npcID": 35,
+            "coordenadas": {
+              "coordX": -154,
+              "coordY": 174
+            }
+          },
+          {
+            "npcID": 36,
+            "coordenadas": {
+              "coordX": 0,
+              "coordY": 240
+            }
+          },
+          {
+            "npcID": 37,
+            "coordenadas": {
+              "coordX": 222,
+              "coordY": 210
+            }
+          },
+          {
+            "npcID": 38,
+            "coordenadas": {
+              "coordX": 242,
+              "coordY": 62
+            }
+          }
+        ]
+      },
+      {
+        "casa": 2,
+        "tamaño": "pequeño",
+        "coords": {
+          "coordX": -1182,
+          "coordY": 1888
+        },
+        "npc": [
+          {
+            "npcID": 39,
+            "coordenadas": {
+              "coordX": 16,
+              "coordY": 146
+            }
+          },
+          {
+            "npcID": 40,
+            "coordenadas": {
+              "coordX": -146,
+              "coordY": 142
+            }
+          },
+          {
+            "npcID": 41,
+            "coordenadas": {
+              "coordX": 178,
+              "coordY": 170
+            }
+          }
+        ]
+      },
+      {
+        "casa": 3,
+        "tamaño": "grande",
+        "coords": {
+          "coordX": -1890,
+          "coordY": 2050
+        },
+        "npc": [
+          {
+            "npcID": 42,
+            "coordenadas": {
+              "coordX": 256,
+              "coordY": -142
+            }
+          },
+          {
+            "npcID": 43,
+            "coordenadas": {
+              "coordX": 128,
+              "coordY": -78
+            }
+          },
+          {
+            "npcID": 44,
+            "coordenadas": {
+              "coordX": -186,
+              "coordY": -90
+            }
+          },
+          {
+            "npcID": 45,
+            "coordenadas": {
+              "coordX": -154,
+              "coordY": 174
+            }
+          },
+          {
+            "npcID": 46,
+            "coordenadas": {
+              "coordX": 0,
+              "coordY": 240
+            }
+          },
+          {
+            "npcID": 47,
+            "coordenadas": {
+              "coordX": 222,
+              "coordY": 210
+            }
+          },
+          {
+            "npcID": 48,
+            "coordenadas": {
+              "coordX": 242,
+              "coordY": 62
+            }
+          }
+        ]
+      },
+      {
+        "casa": 4,
+        "tamaño": "pequeño",
+        "coords": {
+          "coordX": -1854,
+          "coordY": 1760
+        },
+        "npc": [
+          {
+            "npcID": 49,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -98
+            }
+          },
+          {
+            "npcID": 50,
+            "coordenadas": {
+              "coordX": 178,
+              "coordY": 170
+            }
+          },
+          {
+            "npcID": 51,
+            "coordenadas": {
+              "coordX": 16,
+              "coordY": 146
+            }
+          },
+          {
+            "npcID": 52,
+            "coordenadas": {
+              "coordX": -146,
+              "coordY": 142
+            }
+          }
+        ]
+      },
+      {
+        "casa": 5,
+        "tamaño": "pequeño",
+        "coords": {
+          "coordX": -2208,
+          "coordY": 1954
+        },
+        "npc": [
+          {
+            "npcID": 53,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -98
+            }
+          },
+          {
+            "npcID": 54,
+            "coordenadas": {
+              "coordX": 178,
+              "coordY": 170
+            }
+          },
+          {
+            "npcID": 55,
+            "coordenadas": {
+              "coordX": 16,
+              "coordY": 146
+            }
+          },
+          {
+            "npcID": 56,
+            "coordenadas": {
+              "coordX": -146,
+              "coordY": 142
+            }
+          },
+          {
+            "npcID": 57,
+            "coordenadas": {
+              "coordX": -162,
+              "coordY": -98
+            }
+          }
+        ]
+      },
+      {
+        "casa": 6,
+        "tamaño": "pequeño",
+        "coords": {
+          "coordX": -2434,
+          "coordY": 1794
+        },
+        "npc": [
+          {
+            "npcID": 58,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -98
+            }
+          },
+          {
+            "npcID": 59,
+            "coordenadas": {
+              "coordX": 178,
+              "coordY": 170
+            }
+          },
+          {
+            "npcID": 60,
+            "coordenadas": {
+              "coordX": 16,
+              "coordY": 146
+            }
+          },
+          {
+            "npcID": 61,
+            "coordenadas": {
+              "coordX": -146,
+              "coordY": 142
+            }
+          },
+          {
+            "npcID": 62,
+            "coordenadas": {
+              "coordX": -162,
+              "coordY": -98
+            }
+          }
+        ]
+      }
+    ],
+    "mazmorras": {
+      "mazmorraEntrada": {
+        "coordX": -2486,
+        "coordY": 1056
+      },
+      "mazmorraPuerta": {
+        "coordX": 22,
+        "coordY": 264
+      },
+      "mazmorraSalida": {
+        "coordX": 12,
+        "coordY": -304
+      },
+      "npc" : [
+        {
+          "npcID": 7,
+          "coordenadas": {
+            "coordX": 190,
+            "coordY": 236
+          }
+        },
+        {
+          "npcID": 8,
+          "coordenadas": {
+            "coordX": -204,
+            "coordY": 174
+          }
+        },
+        {
+          "npcID": 9,
+          "coordenadas": {
+            "coordX": 240,
+            "coordY": 38
+          }
+        },
+        {
+          "npcID": 10,
+          "coordenadas": {
+            "coordX": -200,
+            "coordY": -96
+          }
+        },
+        {
+          "npcID": 11,
+          "coordenadas": {
+            "coordX": 224,
+            "coordY": -96
+          }
+        },
+        {
+          "npcID": 12,
+          "coordenadas": {
+            "coordX": -98,
+            "coordY": -226
+          }
+        }
+      ]
+    }
+  },
+  {
+    "pueblo": 3,
+    "spawn": {
+      "coordX": -2464,
+      "coordY": 530
+    },
+    "casas": [
+      {
+        "casa": 1,
+        "tamaño": "pequeño",
+        "coords": {
+          "coordX": -2596,
+          "coordY": -62
+        },
+        "npc": [
+          {
+            "npcID": 63,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -98
+            }
+          },
+          {
+            "npcID": 64,
+            "coordenadas": {
+              "coordX": 178,
+              "coordY": 170
+            }
+          },
+          {
+            "npcID": 65,
+            "coordenadas": {
+              "coordX": 16,
+              "coordY": 146
+            }
+          },
+          {
+            "npcID": 66,
+            "coordenadas": {
+              "coordX": -146,
+              "coordY": 142
+            }
+          },
+          {
+            "npcID": 67,
+            "coordenadas": {
+              "coordX": -162,
+              "coordY": -98
+            }
+          }
+        ]
+      },
+      {
+        "casa": 2,
+        "tamaño": "pequeño",
+        "coords": {
+          "coordX": -2432,
+          "coordY": -422
+        },
+        "npc": [
+          {
+            "npcID": 68,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -98
+            }
+          },
+          {
+            "npcID": 69,
+            "coordenadas": {
+              "coordX": 178,
+              "coordY": 170
+            }
+          },
+          {
+            "npcID": 70,
+            "coordenadas": {
+              "coordX": 16,
+              "coordY": 146
+            }
+          },
+          {
+            "npcID": 71,
+            "coordenadas": {
+              "coordX": -146,
+              "coordY": 142
+            }
+          }
+        ]
+      },
+      {
+        "casa": 3,
+        "tamaño": "grande",
+        "coords": {
+          "coordX": -1438,
+          "coordY": -126
+        },
+        "npc": [
+          {
+            "npcID": 72,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -106
+            }
+          },
+          {
+            "npcID": 73,
+            "coordenadas": {
+              "coordX": -118,
+              "coordY": -78
+            }
+          },
+          {
+            "npcID": 74,
+            "coordenadas": {
+              "coordX": -120,
+              "coordY": 174
+            }
+          },
+          {
+            "npcID": 75,
+            "coordenadas": {
+              "coordX": 228,
+              "coordY": 210
+            }
+          }
+        ]
+      }
+    ],
+    "mazmorras": {
+      "mazmorraEntrada": {
+        "coordX": -2192,
+        "coordY": -1478
+      },
+      "mazmorraPuerta": {
+        "coordX": -214,
+        "coordY": 26
+      },
+      "mazmorraSalida": {
+        "coordX": 18,
+        "coordY": -192
+      },
+      "npc" : [
+        {
+          "npcID": 13,
+          "coordenadas": {
+            "coordX": -124,
+            "coordY": 163
+          }
+        },
+        {
+          "npcID": 14,
+          "coordenadas": {
+            "coordX": 180,
+            "coordY": 128
+          }
+        },
+        {
+          "npcID": 15,
+          "coordenadas": {
+            "coordX": 150,
+            "coordY": -64
+          }
+        },
+        {
+          "npcID": 16,
+          "coordenadas": {
+            "coordX": -98,
+            "coordY": -82
+          }
+        }
+      ]
+    }
+  },
+  {
+    "pueblo": 4,
+    "spawn": {
+      "coordX": -2018,
+      "coordY": -1534
+    },
+    "casas": [
+      {
+        "casa": 1,
+        "tamaño": "grande",
+        "coords": {
+          "coordX": -830,
+          "coordY": -1310
+        },
+        "npc": [
+          {
+            "npcID": 76,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -106
+            }
+          },
+          {
+            "npcID": 77,
+            "coordenadas": {
+              "coordX": -118,
+              "coordY": -78
+            }
+          },
+          {
+            "npcID": 78,
+            "coordenadas": {
+              "coordX": -120,
+              "coordY": 174
+            }
+          },
+          {
+            "npcID": 79,
+            "coordenadas": {
+              "coordX": 228,
+              "coordY": 210
+            }
+          }
+        ]
+      },
+      {
+        "casa": 2,
+        "tamaño": "grande",
+        "coords": {
+          "coordX": -260,
+          "coordY": -1310
+        },
+        "npc": [
+          {
+            "npcID": 80,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -106
+            }
+          },
+          {
+            "npcID": 81,
+            "coordenadas": {
+              "coordX": -118,
+              "coordY": -78
+            }
+          },
+          {
+            "npcID": 82,
+            "coordenadas": {
+              "coordX": -120,
+              "coordY": 174
+            }
+          },
+          {
+            "npcID": 83,
+            "coordenadas": {
+              "coordX": 228,
+              "coordY": 210
+            }
+          }
+        ]
+      },
+
+      {
+        "casa": 3,
+        "tamaño": "pequeño",
+        "coords": {
+          "coordX": -254,
+          "coordY": -1856
+        },
+        "npc": [
+          {
+            "npcID": 84,
+            "coordenadas": {
+              "coordX": 192,
+              "coordY": -98
+            }
+          },
+          {
+            "npcID": 85,
+            "coordenadas": {
+              "coordX": 178,
+              "coordY": 170
+            }
+          },
+          {
+            "npcID": 86,
+            "coordenadas": {
+              "coordX": 16,
+              "coordY": 146
+            }
+          },
+          {
+            "npcID": 87,
+            "coordenadas": {
+              "coordX": -146,
+              "coordY": 142
+            }
+          }
+        ]
+      }
+    ],
+    "mazmorras": {
+      "mazmorraEntrada": {
+        "coordX": 418,
+        "coordY": -1226
+      },
+      "mazmorraPuerta": {
+        "coordX": -224,
+        "coordY": -192
+      },
+      "mazmorraSalida": {
+        "coordX": 292,
+        "coordY": -192
+      },
+      "npc" : [
+        {
+          "npcID": 17,
+          "coordenadas": {
+            "coordX": -306,
+            "coordY": -62
+          }
+        },
+        {
+          "npcID": 18,
+          "coordenadas": {
+            "coordX": -344,
+            "coordY": 152
+          }
+        },
+        {
+          "npcID": 19,
+          "coordenadas": {
+            "coordX": 282,
+            "coordY": 150
+          }
+        }
+      ]
+    }
+  },
+  {
+    "pueblo": 5,
+    "spawn": {
+      "coordX": 772,
+      "coordY": -1228
+    },
+    "casas": [
+      {
+        "casa": 0,
+        "npc": [
+          {
+            "npcID": 88,
+            "coordenadas": {
+              "coordX": 2060,
+              "coordY": -2006
+            }
+          }
+        ]
+      }
+    ],
+    "mazmorras": {
+      "mazmorraEntrada": {
+        "coordX": 1924,
+        "coordY": -1548
+      },
+      "mazmorraPuerta": {
+        "coordX": 14,
+        "coordY": -304
+      },
+
+      "npc" : [
+        {
+          "npcID": 20,
+          "coordenadas": {
+            "coordX": 18,
+            "coordY": 118
+          }
+        }
+      ]
+    }
+  }
+]

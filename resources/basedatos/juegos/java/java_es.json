@@ -1,0 +1,722 @@
+[
+  {
+    "npcID": 0,
+    "dialogos": [
+      "¡Saludos, aventurero! Parece que has sido elegido para enfrentar los retos de nuestro reino. Este es un mundo lleno de conocimiento, pero también de desafíos.  Aquí, aprenderás valiosas habilidades de Java, explorarás mazmorras y resolverás problemas para derrotar a nuestros enemigos, “Bugger” y sus secuaces, “los bugs”. Estas criaturas han tomado el control sobre nuestras tierras y caminos, bloqueando el tránsito entre pueblos vecinos.",
+      "Tu misión es simple: avanzar a través de nuestras poblaciones aprendiendo de nuestras gentes y demostrar lo que sabes superando a los “bugs” en sus mazmorras. Si tienes éxito, estarás listo para enfrentarte a “Bugger” y salvar nuestra civilización. ¡Ahora busca las chozas de los aldeanos! Ellos te enseñarán lo que necesitas saber. Ánimo enfrentándote a esos villanos, tu suerte será nuestra.",
+      "¡Prepárate para aprender, luchar y depurar este mundo de errores!"
+    ]
+  },
+  {
+    "npcID": 1,
+    "dialogos": [
+      "¡Ah, joven aventurero! Hoy te hablaré de algo muy importante en el mundo de la programación: ¡la salida!",
+      "Imagina que muchos programas que usamos están hechos para darnos información en algún momento. ¿Has visto alguna vez un mensaje como 'Tienes un mensaje nuevo'? Eso es una salida. O piensa en cuando estás jugando y aparece en la pantalla un temido 'Game Over'... ¡también es una salida! Y cuando consultas tu saldo en la app del banco, el número que ves es, sí, una salida.",
+      "La forma más simple de salida en programación es un mensaje que aparece en pantalla. ¡No te olvides de este concepto, pues lo verás mucho en tu aventura de aprendizaje!"
+    ]
+  },
+  {
+    "npcID": 2,
+    "dialogos": [
+      "¿Sabías que los programadores usan las salidas para asegurarse de que el ordenador está haciendo lo que ellos quieren? También las usan para encontrar errores y corregirlos.",
+      "Por ejemplo, si quisieras mostrar algo en la pantalla, como el famoso eslogan de Java, podrías escribir esta línea de código: \n\nSystem.out.println(\"Write once, run anywhere!\");",
+      "Cuando ejecutas este código, verás ese mensaje aparecer en la pantalla. ¡Es una forma genial de comunicarte con el programa mientras trabajas en él!"
+    ]
+  },
+  {
+    "npcID": 3,
+    "dialogos": [
+      "¡Ah, veo que estás aprendiendo rápido! Déjame explicarte algo importante: en programación, cada línea de código que escribes se llama declaración. Es como si estuvieras dando órdenes al ordenador, una cada vez.",
+      "Por ejemplo, imagina que quieres que el programa te salude. Podrías usar esta declaración:\n\nSystem.out.println(\"¡Hola, aventurero!\");",
+      "Ahora, una pregunta para ti: ¿qué crees que pasaría si te olvidas de poner el punto y coma (;) al final de esa línea? Piénsalo... \n\n¡Correcto, el programa no funcionaría! El ordenador necesita ese punto y coma para saber que tu orden ha terminado.",
+      "Así que, cada vez que escribas una declaración, recuerda cerrar con ese pequeño detalle. ¿Listo para seguir aprendiendo?"
+    ]
+  },
+  {
+    "npcID": 4,
+    "dialogos": [
+      "¡Parece que te estás volviendo un experto en declaraciones! Déjame contarte algo genial: puedes escribir tantas declaraciones como quieras en tu código. Es como ir armando una conversación con el ordenador.",
+      "Por ejemplo, observa estas dos declaraciones: \n\n System.out.println(\"¡Hola, mundo!\"); \n\nSystem.out.println(\"Bienvenido a Java.\");",
+      "¿Sabes qué hacen? Cada una muestra un mensaje en pantalla, pero en líneas diferentes. ¡Fácil, ¿verdad?!"
+    ]
+  },
+  {
+    "npcID": 5,
+    "dialogos": [
+      "¡Esto se pone interesante! Te cuento un secreto sobre los ordenadores: tratan el texto y los números de manera diferente.",
+      "Si quieres imprimir un mensaje como 'Hola, aventurero', necesitas usar comillas dobles, así: \n\nSystem.out.println(\"Hola, aventurero\");",
+      "¿Pero qué pasa si quieres imprimir un número? En ese caso, no necesitas comillas. Mira este ejemplo: \n\n System.out.println(42);",
+      "Fácil, ¿no? \nPero cuidado: si olvidas las comillas alrededor del texto, tu programa no funcionará. ¿Qué crees que pasaría si escribes esto: \n\n System.out.println(Hola, aventurero);",
+      "¡Exacto, un error! El ordenador no entenderá que es un mensaje de texto."
+    ]
+  },
+  {
+    "npcID": 6,
+    "dialogos": [
+      "¡Atención, aventurero! Java es un lenguaje muy detallista, y le importa mucho si usas mayúsculas o minúsculas. Esto significa que tienes que ser muy preciso al escribir tu código.",
+      "Por ejemplo, estas dos palabras no son lo mismo para Java:  `System` y `system`",
+      "Si intentas escribir esto: `system.out.println(\"Hola, mundo!\");`\nJava te dará un error, porque esperaba que escribieras `System` con 'S' mayúscula. ¿Lo ves? Es como si estuvieras escribiendo un nombre propio: ¡no puedes cambiar las mayúsculas como quieras!"
+    ]
+  },
+  {
+    "npcID": 7,
+    "dialogos": [
+      "¡Es hora de hablar sobre la base de cualquier programa en Java: las clases!",
+      "La primera línea de un programa en Java define una clase. Por ejemplo:  \n\nclass Demo {",
+      "¿Ves cómo empieza con la palabra clave `class`? Esto le dice al ordenador que todo el código que escribas dentro pertenece a esta clase. Es como una caja que guarda tus instrucciones.",
+      "¿Sabías que puedes llamar a la clase como quieras? Podrías ponerle un nombre como `Aventura` o `MiPrimeraClase`. Pero hay una regla importante: todo programa Java debe estar dentro de una clase. Sin ella, tu código no funcionará.",
+      "No te preocupes si esto suena complicado ahora. Más adelante aprenderás en detalle cómo funcionan las clases. Por ahora, solo recuerda que siempre debes empezar creando una. ¡Pruébalo y verás cómo tu programa cobra vida!\""
+    ]
+  },
+  {
+    "npcID": 8,
+    "dialogos": [
+      "Ahora que sabes que todo programa  Java necesita una clase, te enseñaré algo importante sobre cómo estructurarla correctamente. \nPara empezar, una clase siempre se abre y se cierra con llaves {}. Por ejemplo:  \n\nclass Demo {  \n}",
+      "Todo el código que quieras incluir en la clase debe ir dentro de esas llaves. Piensa en ellas como un cofre que guarda tus instrucciones.",
+      "Por cierto, hay dos formas de escribir la llave de apertura: justo al lado del nombre de la clase o en la línea de abajo. Aunque ambas son correctas, muchos programadores prefieren escribirla en la misma línea para que el código sea más compacto."
+    ]
+  },
+  {
+    "npcID": 9,
+    "dialogos": [
+      "Ahora que has aprendido sobre  las clases, es momento de conocer algo crucial en cualquier programa Java: el método main.",
+      "Dentro de una clase, encontrarás esta línea:\n\npublic static void main(String[] args) {",
+      "Este es el punto de entrada de cualquier programa Java, donde todo comienza. Piensa en él como la puerta principal por donde el programa entra en acción.",
+      "Más adelante, cuando hablemos de métodos, entenderás cada una de las palabras clave en esta declaración. Por ahora, solo debes recordar algo muy importante: el método main siempre debe escribirse exactamente así.\n\npublic static void main(String[] args) {"
+    ]
+  },
+  {
+    "npcID": 10,
+    "dialogos": [
+      "Ahora vamos a profundizar en el método main y su estructura.",
+      "Al igual que una clase, el método main también se abre y se cierra con llaves `{}`. Por ejemplo:\n\npublic static void main(String[] args) {\n|\tSystem.out.println(\"Hi there\");  \n }",
+      "Todo el código que deseas que se ejecute al iniciar tu programa debe ir dentro de esas llaves. En este ejemplo, cuando ejecutes el programa, se ejecutará el método println, mostrando el mensaje \"Hi there\" en la pantalla.",
+      "El método main es el punto central donde comienza la ejecución de cualquier programa en Java. Recuerda estructurarlo correctamente."
+    ]
+  },
+  {
+    "npcID": 11,
+    "dialogos": [
+      "Todos los programas necesitan trabajar con valores, y aquí es donde las variables juegan un papel importante.\nUna variable te permite almacenar un valor y asignárselo a un nombre. Este nombre puede usarse más adelante en el programa para referirse a ese mismo valor.",
+      "Por ejemplo, imagina que estás desarrollando un juego y necesitas llevar la cuenta de los puntos del jugador. Podrías usar una variable para almacenar cuántos puntos ha conseguido.",
+      "Las variables son esenciales en cualquier programa, ya que permiten que los datos cambien y se actualicen durante la ejecución."
+    ]
+  },
+  {
+    "npcID": 12,
+    "dialogos": [
+      "Las variables son una parte esencial de cualquier programa, y cada una tiene un tipo que define qué tipo de valor puede almacenar.",
+      "Una variable puede contener diferentes tipos de valores, como texto, números o incluso decimales.",
+      "Por ejemplo, ya conoces los valores de texto. Estos se crean encerrándolos entre comillas dobles, como: \"this is some text\"",
+      "En Java, el texto que colocamos entre comillas se llama *String*. Este tipo de dato es muy útil cuando necesitas trabajar con palabras, frases o cualquier tipo de texto en tu programa"
+    ]
+  },
+  {
+    "npcID": 13,
+    "dialogos": [
+      "Ahora vamos a aprender cómo crear una variable del tipo String.  \n Por ejemplo, podrías escribir: \n\nString name;\n",
+      "Esto crea una variable llamada `name` que puede contener valores de tipo String, es decir, texto.",
+      "En programación, este proceso de crear una nueva variable recibe el nombre de declaración. Es el primer paso para empezar a usar variables en tu programa."
+    ]
+  },
+  {
+    "npcID": 14,
+    "dialogos": [
+      "Después de declarar una variable, puedes asignarle un valor utilizando el operador de asignación `=`.",
+      "Por ejemplo, primero declaras la variable:\nString name;  \nLuego le asignas un valor:  \nname = \"James\";",
+      "Es importante recordar que el tipo `String` siempre debe comenzar con una letra mayúscula. Si lo escribes con una letra minúscula, el programa dará un error."
+    ]
+  },
+  {
+    "npcID": 15,
+    "dialogos": [
+      "Existen otros tipos de datos que puedes usar para tus variables.",
+      "Por ejemplo, el tipo `int` se utiliza para almacenar números enteros. Estos son números sin decimales, como 10, -3 o 42.",
+      "En programación, a estos números enteros los llamamos simplemente enteros. Son muy útiles cuando necesitas trabajar con valores como edades, puntuaciones o cantidades."
+    ]
+  },
+  {
+    "npcID": 16,
+    "dialogos": [
+      "Si necesitas trabajar con números decimales el tipo por defecto y el que debes usar es el tipo `double`.",
+      "Este tipo de dato es ideal para almacenar valores como 3.14, 0.99 o -7.25",
+      "Usar `double` te permitirá manejar números que no son enteros, lo cual es muy útil para cálculos más precisos o para trabajar con fracciones."
+    ]
+  },
+  {
+    "npcID": 17,
+    "dialogos": [
+      "En Java, además del tipo `double`, existe otro tipo para trabajar con decimales llamado `float`.",
+      "Si utilizas el tipo `float`, es importante añadir una `f` al final del valor decimal. Por ejemplo:  \n\nfloat height = 1.94f;",
+      "Esto le indica a Java que el valor debe tratarse como un `float` y no como un `double`.",
+      "Este es un detalle crucial, ya que Java, por defecto, interpreta los decimales como `double`. La `f` asegura que el programa entienda que estás trabajando con un `float`.",
+      "El tipo `float` ocupa menos espacio en memoria, pero no es tan preciso como el tipo `double`. Esto significa que los cálculos con `float` son más rápidos, aunque menos exactos en cuanto a los dígitos decimales. Como regla general, utiliza `float` cuando el uso de memoria sea crítico. Por otro lado, si necesitas cálculos más precisos, como en operaciones con moneda, es mejor usar `double`."
+    ]
+  },
+  {
+    "npcID": 18,
+    "dialogos": [
+      "El tipo char se utiliza para almacenar un único carácter.",
+      "A diferencia de los String, que pueden contener texto más largo, un char guarda solo un carácter, como una letra o un símbolo.",
+      "Para definir un char, debes usar comillas simples (') en lugar de comillas dobles (\"). Por ejemplo:\n\nchar initial = 'J';",
+      "Este tipo de dato es útil cuando necesitas trabajar con caracteres individuales en lugar de cadenas de texto completas."
+    ]
+  },
+  {
+    "npcID": 19,
+    "dialogos": [
+      "Otro tipo de dato importante es el boolean. Este tipo puede contener únicamente dos valores: true o false.",
+      "Los booleanos son muy útiles cuando trabajamos con estados o condiciones. Por ejemplo, podrías usar un boolean para indicar si una tienda está abierta o cerrada:\n\n boolean isOpen = true;",
+      "Este tipo de dato es esencial para controlar la lógica en tus programas."
+    ]
+  },
+  {
+    "npcID": 20,
+    "dialogos": [
+      "En Java, puedes usar operadores matemáticos comunes para realizar cálculos.",
+      "Estos operadores incluyen la suma (+), resta (-), multiplicación (*) y división (/).",
+      "Estos operadores son fundamentales para realizar operaciones básicas en cualquier programa."
+    ]
+  },
+  {
+    "npcID": 21,
+    "dialogos": [
+      "Los resultados de las operaciones matemáticas se pueden asignar a una variable para utilizarlos más adelante en el programa.",
+      "Por ejemplo, si realizas una suma, puedes guardar el resultado de esta manera:\n int total = 5 + 3;\nAquí, la variable total almacenará el valor resultante, en este caso, 8.",
+      "Este enfoque es muy útil para manejar cálculos y reutilizar los resultados en diferentes partes de tu código."
+    ]
+  },
+  {
+    "npcID": 22,
+    "dialogos": [
+      "¡Hablemos de otra herramienta esencial en las matemáticas de la programación! ¿Sabías que puedes usar Java para realizar restas de manera sencilla?",
+      "Por ejemplo, si quieres calcular cuánto queda al restar dos números, podrías escribir algo como:\n\n int difference = 10 - 4;\nEsto almacenará el resultado, en este caso 6, dentro de la variable difference.",
+      "Usar el operador de resta es una forma práctica de trabajar con números y resolver problemas en tus programas."
+    ]
+  },
+  {
+    "npcID": 23,
+    "dialogos": [
+      "¿Sabías que Java también puede ayudarte a realizar multiplicaciones de forma sencilla? Usar el operador adecuado te permitirá calcular productos rápidamente.",
+      "Para multiplicar dos valores, puedes usar el operador *. Por ejemplo:\n\n int product = 5 * 3;\nEsto almacenará el resultado, en este caso 15, dentro de la variable product.",
+      "La multiplicación es una herramienta clave en muchos programas, ya sea para cálculos matemáticos básicos o para resolver problemas más complejos."
+    ]
+  },
+  {
+    "npcID": 24,
+    "dialogos": [
+      "¡Aquí tienes otra herramienta útil para tus cálculos! En Java, puedes realizar divisiones fácilmente utilizando el operador /.",
+      "Por ejemplo, si necesitas dividir dos números, podrías escribir algo como:\n\n int quotient = 10 / 2;\nEsto guardará el resultado, en este caso 5, dentro de la variable quotient.",
+      " La división es especialmente útil cuando trabajas con cálculos que requieren repartir o distribuir valores de manera equitativa. ¡Una habilidad esencial para cualquier programador!"
+    ]
+  },
+  {
+    "npcID": 25,
+    "dialogos": [
+      "Aquí tienes otra herramienta útil en las operaciones matemáticas: el operador módulo %. Este operador devuelve el resto de una división.",
+      "Por ejemplo, si calculas:\n\n int remainder = 10 % 3;\n El resultado será 1, ya que 10 dividido por 3 da un cociente de 3 y un resto de 1.",
+      "El operador módulo es muy práctico cuando necesitas trabajar con patrones, ciclos o verificar si un número es divisible por otro. ¡Es una herramienta indispensable en muchos algoritmos!"
+    ]
+  },
+  {
+    "npcID": 26,
+    "dialogos": [
+      "En Java, también puedes trabajar con texto de forma dinámica usando el operador +. Este operador te permite sumar cadenas, un proceso conocido como concatenación.",
+      "Por ejemplo, si tienes el nombre y apellidos de un usuario, podrías combinarlos así:\n\n String fullName = \"Juan\" + \"Perez\";\n Esto dará como resultado JuanPerez, ya que las cadenas se unen directamente sin separador. Si quieres añadir un espacio entre ellas, simplemente inclúyelo como parte de la concatenación:\n\n String fullName = \"Juan\" + \" \" + \"Perez\";",
+      "Además, puedes combinar cadenas con otros tipos de datos, como enteros o decimales. Por ejemplo:\n\n String message = \"Edad: \" + 25;",
+      "La concatenación es una herramienta poderosa para crear mensajes personalizados o trabajar con texto de manera flexible en tus programas."
+    ]
+  },
+  {
+    "npcID": 27,
+    "dialogos": [
+      "Vamos a hablar sobre algo muy importante para hacer tu código más claro: los comentarios. \n Los comentarios son anotaciones dentro del código que explican lo que hace cada parte. Son como pequeñas notas para ti o para otros programadores que trabajen en el mismo proyecto. \n Mientras que el código es interpretado por el ordenador, los comentarios están pensados para los humanos que lo leen.",
+      "En Java, puedes escribir comentarios de una sola línea utilizando //:\n\n // Este es un comentario de una línea",
+      "También puedes escribir comentarios de varias líneas utilizando /* y */:\n /* Este es un comentario que ocupa\n varias líneas */\nLos comentarios son esenciales para mantener el código claro, organizado y fácil de entender."
+    ]
+  },
+  {
+    "npcID": 28,
+    "dialogos": [
+      "En programación, un comentario de una sola línea comienza con dos barras diagonales // y se extiende hasta el final de la línea.",
+      "Por ejemplo, si quieres explicar una parte de tu código, puedes escribir algo así:\n\n int edad = 25; // Variable para almacenar la edad de una persona",
+      "Añadir comentarios mientras escribes el código es una práctica muy recomendable. Ayudan a aclarar el propósito de cada sección y facilitan la comprensión cuando necesitas revisar tu trabajo más adelante.",
+      "Además, los comentarios son muy útiles para otros programadores que puedan leer o colaborar en tu código, ya que les dan contexto y hacen más fácil entender tu lógica."
+    ]
+  },
+  {
+    "npcID": 29,
+    "dialogos": [
+      "Además de explicar el código, también puedes usar los comentarios para desactivar líneas de código que no quieras ejecutar por el momento.",
+      "Esto es especialmente útil cuando estás trabajando en algo que aún no está terminado o si quieres probar el programa sin eliminar esas líneas. Por ejemplo:\n\n // int edad = 25;\n\nEn este caso, la línea está comentada y será ignorada al ejecutar el programa, como si no estuviera ahí.",
+      "Esta técnica es muy práctica para hacer pruebas, mantener orden en tu trabajo o guardar código que podrías necesitar más adelante sin que afecte al funcionamiento actual del programa."
+    ]
+  },
+  {
+    "npcID": 30,
+    "dialogos": [
+      "En Java, si necesitas escribir un comentario que abarque varias líneas, puedes usar los símbolos /* y */",
+      "Todo lo que esté entre estos símbolos será tratado como un comentario. Por ejemplo:\n /* Este es un comentario que ocupa\n varias líneas */",
+      "También puedes usar este formato para comentar varias líneas de código si necesitas desactivarlas temporalmente. Por ejemplo:\n /* int edad = 25;\n String nombre = \"Juan\"; */",
+      "Esto es muy útil para trabajar con secciones completas de código en pruebas o cuando quieres dejar notas más detalladas para ti o para otros programadores."
+    ]
+  },
+  {
+    "npcID": 31,
+    "dialogos": [
+      "Las declaraciones condicionales son fundamentales en programación porque permiten que un programa tome decisiones basadas en diferentes situaciones.\nPor ejemplo, imagina un programa de facturación. Podría aplicar un descuento al total solo si el importe supera un determinado umbral: \n\nif (total > 100) {\n|\t descuento = total * 0.1;\n }",
+      "Esto significa que si el total es mayor que 100, se calcula y aplica un descuento. Si no, el programa no hará nada en este caso.",
+      "Las declaraciones condicionales son clave para crear programas dinámicos y flexibles que respondan a diferentes escenarios. ¡Vamos a aprender cómo implementarlas correctamente!"
+    ]
+  },
+  {
+    "npcID": 32,
+    "dialogos": [
+      "Una de las herramientas más utilizadas para tomar decisiones en un programa es la declaración if.\nLa declaración if ejecuta un bloque de código solo si su condición es verdadera. Esto permite que el programa actúe de forma específica en función de una situación dada.",
+      "La sintaxis básica de un if es la siguiente:\nif (condición) {\n|\t // código a ejecutar si la condición es verdadera\n }\n",
+      "Por ejemplo, si quieres verificar si un número es positivo:\n if (numero > 0) {\n|\tSystem.out.println(\"El número es positivo.\");\n }\nEste es un pilar fundamental en la toma de decisiones dentro de cualquier programa."
+    ]
+  },
+  {
+    "npcID": 33,
+    "dialogos": [
+      "Para crear condiciones en una declaración if, puedes usar diferentes operadores de comparación según lo que necesites evaluar.\nAquí tienes una lista de los operadores más comunes:\n< menor que\n> mayor que\n!= no igual a\n== igual a\n<= menor o igual que\n>= mayor o igual que",
+      "Por ejemplo, si quieres verificar si un número es mayor o igual a 18, podrías escribir:\n if (edad >= 18) {\n|\tSystem.out.println(\"Eres mayor de edad.\");\n}",
+      "Estos operadores te permiten crear condiciones precisas y flexibles para controlar el flujo de tu programa."
+    ]
+  },
+  {
+    "npcID": 34,
+    "dialogos": [
+      "Es importante recordar un detalle clave al comprobar la igualdad en Java: debes usar dos signos de igual (==) en las condiciones. Por ejemplo, si quieres verificar si dos valores son iguales:\nif (x == y) {\n|\t System.out.println(\"Los valores son iguales.\");\n }",
+      "Usar un solo signo de igual (=) no funciona para comparaciones, ya que este operador se utiliza para asignar valores a variables.",
+      "Este es un error común al comenzar a programar, así que presta atención a este detalle para evitar problemas en tus condiciones."
+    ]
+  },
+  {
+    "npcID": 35,
+    "dialogos": [
+      "En Java, una declaración if puede ir acompañada de una opción adicional llamada else. Esto permite ejecutar un bloque de código diferente cuando la condición en el if resulta ser falsa. Por ejemplo:\n if (edad > 30) {\n|\t System.out.println(\"Tienes más de 30 años.\");\n} else {\n|\t System.out.println(\"Tienes 30 años o menos.\");\n }\n",
+      "Si la variable edad es igual a 30, la condición en el if evaluará como falsa, y el bloque dentro del else se ejecutará en su lugar.",
+      "El uso de else es ideal para manejar todas las posibilidades cuando necesitas que el programa tome una decisión en cualquier caso."
+    ]
+  },
+  {
+    "npcID": 36,
+    "dialogos": [
+      "En Java, puedes usar una declaración if-else dentro de otra para manejar situaciones más complejas. Esto se llama anidación y es útil para evaluar múltiples condiciones relacionadas.",
+      "Sin embargo, ten cuidado, ya que demasiadas declaraciones if-else anidadas pueden hacer que el código sea más difícil de leer y entender.",
+      "Siempre que sea posible, trata de simplificar estas estructuras para mantener la claridad en tu programa."
+    ]
+  },
+  {
+    "npcID": 37,
+    "dialogos": [
+      "En lugar de anidar múltiples declaraciones if-else, puedes usar else if para evaluar varias condiciones de forma más clara y ordenada. La estructura else if permite comprobar condiciones adicionales después de un if, manteniendo el código más legible.",
+      "Puedes incluir tantos bloques else if como necesites, asegurándote de cubrir todas las posibilidades relevantes en tu programa.",
+      "Este enfoque es ideal para manejar decisiones complejas sin complicar demasiado el flujo del código."
+    ]
+  },
+  {
+    "npcID": 38,
+    "dialogos": [
+      "Ya conoces los conceptos básicos para tomar decisiones en tu código. Aquí tienes un resumen de los puntos clave: \nPuedes comprobar una condición utilizando la declaración `if`. ",
+      "Si la condición resulta ser falsa, puedes usar un bloque `else` para ejecutar un código alternativo.",
+      "También puedes usar `else if` para manejar múltiples condiciones de forma organizada. La estructura genérica es la siguiente:\nif (condition) {  \n|\t  // código a ejecutar si la condición es verdadera  \n} else if (condition) {  \n|\t  // código a ejecutar si esta otra condición es verdadera  \n} else {  \n|\t  // código a ejecutar si ninguna de las condiciones anteriores es verdadera  \n}",
+      "Estas herramientas son esenciales para crear programas que puedan responder a diferentes situaciones. En las próximas lecciones, conocerás más formas de tomar decisiones."
+    ]
+  },
+  {
+    "npcID": 39,
+    "dialogos": [
+      "En lugar de usar muchas declaraciones if-else, que pueden hacer que el código sea difícil de leer, puedes optar por una declaración switch.\nLa declaración switch verifica si una variable es igual a uno de los valores especificados en diferentes casos.",
+      "Cuando encuentra un caso coincidente, ejecuta el código asociado a ese caso hasta que se encuentra una declaración break.",
+      "Puedes incluir tantos casos como necesites dentro de un switch, y cada caso va seguido del valor que debe coincidir y de dos puntos (:).\nEste enfoque hace que tu código sea más claro y fácil de mantener, especialmente cuando trabajas con múltiples condiciones basadas en una sola variable."
+    ]
+  },
+  {
+    "npcID": 40,
+    "dialogos": [
+      "En una declaración switch, es crucial incluir una instrucción break después de cada caso.\n Si no añades un break, el programa seguirá ejecutando los siguientes casos, incluso si los valores no coinciden con la variable evaluada.",
+      "Esto puede causar un comportamiento no deseado en tu programa, ya que ejecutará más código del necesario.",
+      "Usar break asegura que el programa salga del switch una vez que se ha ejecutado el código del caso correspondiente, manteniendo el flujo controlado y predecible."
+    ]
+  },
+  {
+    "npcID": 41,
+    "dialogos": [
+      "Una declaración switch puede incluir un caso opcional llamado default.\nEl caso default se ejecuta cuando ninguno de los casos especificados coincide con el valor de la variable evaluada.",
+      "No es necesario incluir un break en el caso default, ya que siempre es la última instrucción dentro del switch.",
+      "El uso de default es una buena práctica para manejar situaciones inesperadas o valores no previstos, asegurando que tu programa siempre tenga un comportamiento definido."
+    ]
+  },
+  {
+    "npcID": 42,
+    "dialogos": [
+      "Algunos programas necesitan interactuar directamente con los usuarios, obteniendo entradas para personalizar su funcionamiento.\nPor ejemplo, un juego podría pedirte que introduzcas un apodo y luego mostrarlo en pantalla, o un conversor podría solicitar un valor para convertirlo.",
+      "En Java, existen varias formas de capturar la entrada del usuario, desde la consola hasta interfaces más avanzadas.",
+      "Aprender a manejar estas entradas es fundamental para crear programas interactivos y personalizados. ¡Prepárate para descubrir cómo hacerlo!"
+    ]
+  },
+  {
+    "npcID": 43,
+    "dialogos": [
+      "Cuando un programa necesita recibir datos del usuario, lo primero que debes hacer es importar la clase adecuada\nEn Java, esto se logra con la siguiente línea, que debe colocarse al principio del código, antes de la declaración de la clase:\n\nimport java.util.Scanner;",
+      "Esta línea importa la clase Scanner, una herramienta que utilizaremos para capturar la entrada del usuario.",
+      "La clase Scanner es una forma sencilla y eficiente de obtener datos de la consola, permitiendo que el programa sea más interactivo."
+    ]
+  },
+  {
+    "npcID": 44,
+    "dialogos": [
+      "Una vez que hayas importado la clase Scanner, el siguiente paso es crear un objeto de esta clase para poder usarlo.\nEsto se hace con la siguiente línea de código:\n Scanner sc = new Scanner(System.in);",
+      "Puede que términos como clases, objetos e importar suenen un poco confusos ahora, pero no te preocupes. Aprenderás más sobre ellos en lecciones avanzadas.",
+      "Por ahora, solo recuerda esta estructura para crear el objeto Scanner. Es la clave para capturar la entrada del usuario en tu programa."
+    ]
+  },
+  {
+    "npcID": 45,
+    "dialogos": [
+      "¡Es hora de capturar la entrada del usuario y asignarla a una variable!\nDespués de crear el objeto Scanner, puedes usarlo para leer la entrada del usuario. Por ejemplo, si deseas capturar un nombre, puedes escribir:\n\n String nombre = sc.nextLine();\n",
+      "Aquí, el método nextLine() toma todo lo que el usuario escribe y lo almacena en la variable nombre.",
+      "Este proceso permite que el programa sea más interactivo, ya que puede trabajar con la información proporcionada por el usuario."
+    ]
+  },
+  {
+    "npcID": 46,
+    "dialogos": [
+      "Además de texto, también puedes capturar números u otros tipos de datos desde la entrada del usuario utilizando métodos específicos de la clase Scanner. Por ejemplo, para leer un número entero, puedes usar:\n int age = sc.nextInt();\n Esto permitirá que el usuario introduzca un número, y el programa lo almacenará en la variable age.",
+      "De manera similar, puedes utilizar métodos como nextDouble(), nextFloat() o nextBoolean() para capturar otros tipos de datos, como números decimales o valores booleanos (true o false).",
+      "Esta flexibilidad convierte a Scanner en una herramienta muy poderosa para manejar diferentes tipos de entrada en tus programas."
+    ]
+  },
+  {
+    "npcID": 47,
+    "dialogos": [
+      "Con un solo objeto Scanner, puedes capturar múltiples entradas de usuario, lo que lo hace muy práctico para programas interactivos. Por ejemplo, si quieres capturar un nombre y una edad, podrías escribir:\n String name = sc.nextLine();\n int age = sc.nextInt();",
+      "En este caso, el usuario ingresará el nombre primero y luego la edad. Si estás trabajando en un entorno de programación que utiliza ventanas emergentes, deberás proporcionar cada entrada en una nueva línea.",
+      "Esto permite recoger diferentes tipos de información con facilidad, utilizando el mismo objeto Scanner para todas las entradas necesarias."
+    ]
+  },
+  {
+    "npcID": 48,
+    "dialogos": [
+      "Así es como puedes capturar información del usuario en Java. Aquí tienes los pasos clave:",
+      "Primero, importa la clase java.util.Scanner:\n import java.util.Scanner;",
+      "Luego, crea un objeto Scanner para manejar la entrada:\n Scanner sc = new Scanner(System.in);",
+      "Finalmente, utiliza el método adecuado del objeto Scanner para capturar la información. Por ejemplo:\nString name = sc.nextLine(); para texto.\nint age = sc.nextInt(); para números enteros.\nEstos pasos hacen que tus programas sean interactivos y puedan trabajar con datos proporcionados por el usuario."
+    ]
+  },
+  {
+    "npcID": 49,
+    "dialogos": [
+      "A veces, es necesario combinar varias condiciones en una sola declaración para tomar decisiones más complejas. Por ejemplo, si quieres verificar si una edad está entre 18 y 50 años, puedes usar el operador lógico && (AND):\n if (age > 18 && age < 50)\n",
+      "En este caso, ambas condiciones deben ser verdaderas para que el bloque de código se ejecute.",
+      "El operador && es muy útil para evaluar múltiples requisitos simultáneamente y garantizar que todas las condiciones sean cumplidas antes de proceder."
+    ]
+  },
+  {
+    "npcID": 50,
+    "dialogos": [
+      "El operador lógico || (OR) se utiliza para comprobar si al menos una de las condiciones es verdadera. Por ejemplo, si quieres verificar si una persona cumple con uno de dos requisitos, como tener una edad mayor a 18 años o una altura superior a 150 cm, podrías usar:\n if (age > 18 || height > 150)\n",
+      "Si cualquiera de las dos condiciones es verdadera, el bloque de código se ejecutará.",
+      "Este operador es ideal cuando necesitas que al menos una condición sea cumplida para proceder en tu programa."
+    ]
+  },
+  {
+    "npcID": 51,
+    "dialogos": [
+      "El operador lógico ! (NOT) se utiliza para invertir el valor de una condición. Si una condición es verdadera, el operador ! la convierte en falsa, y viceversa.",
+      "Por ejemplo, si necesitas comprobar si una edad no es mayor a 18, podrías escribir:\n if (!(age > 18))\n Esto se lee como: \"Si la edad no es mayor que 18\"",
+      "Este operador es muy útil cuando deseas ejecutar código solo si una condición específica no se cumple, ayudándote a manejar casos opuestos de manera eficiente."
+    ]
+  },
+  {
+    "npcID": 52,
+    "dialogos": [
+      "Puedes encadenar múltiples condiciones en una sola declaración utilizando paréntesis y operadores lógicos como && y ||. Los paréntesis permiten agrupar las condiciones para que el programa las evalúe en el orden correcto.",
+      "Por ejemplo, si quieres comprobar si alguien vive en \"US\" o \"GB\" y su edad está entre 1 y 99 años, podrías escribir:\n if ((country == \"US\" || country == \"GB\") && (age > 0 && age < 100))",
+      "Esto asegura que ambas condiciones agrupadas sean evaluadas correctamente, haciendo que tu lógica sea clara y precisa."
+    ]
+  },
+  {
+    "npcID": 53,
+    "dialogos": [
+      "Los bucles son herramientas muy útiles en programación porque permiten repetir un bloque de código varias veces.\n Por ejemplo, una aplicación bancaria podría usar un bucle para revisar todas las transacciones de un usuario y verificar si cumplen con ciertas condiciones.",
+      "Esta capacidad de iterar sobre datos hace que los bucles sean esenciales para automatizar tareas repetitivas y procesar grandes cantidades de información de manera eficiente.",
+      "Existen diferentes tipos de bucles en Java, cada uno adecuado para distintos escenarios, como repetir un número fijo de veces o recorrer una lista de elementos."
+    ]
+  },
+  {
+    "npcID": 54,
+    "dialogos": [
+      "Un bucle while ejecuta repetidamente un bloque de código mientras la condición especificada sea verdadera. Por ejemplo, en el siguiente código: \nint x = 3;  \nwhile (x > 0) { \n|\t    System.out.println(x);  \n|\tx = x - 1; \n}\nEl bucle verifica si x > 0. Si es verdadero, ejecuta el código dentro del cuerpo del bucle y luego vuelve a comprobar la condición.",
+      "En este caso, el código imprimirá los números del 3 al 1 y se detendrá cuando x llegue a 0, ya que la condición se volverá falsa.",
+      "Es fundamental actualizar la variable que controla el bucle (en este caso x = x - 1). Sin esta línea, la condición nunca cambiaría y el bucle se ejecutaría infinitamente."
+    ]
+  },
+  {
+    "npcID": 55,
+    "dialogos": [
+      "En Java, es común aumentar o disminuir el valor de una variable en 1 durante los bucles. Para simplificar este proceso, puedes usar los operadores de incremento (++) y decremento (--). \nPor ejemplo, la línea x = x - 1; puede escribirse de manera más corta como x--;. \nEl mismo principio aplica para aumentar el valor de una variable: en lugar de x = x + 1;, puedes escribir x++;",
+      "En el siguiente código:\nint x = 3;\nwhile (x > 0) {\n|\tSystem.out.println(x);\n|\tx--;\n}\n\nEl operador -- reduce el valor de x en 1 en cada iteración, logrando el mismo resultado con menos escritura y mayor claridad.",
+      "En algunos bucles, es necesario incrementar o decrementar una variable por un valor diferente de 1. Por ejemplo, si quieres imprimir solo los números pares del 0 al 10, puedes usar el siguiente código:\nint x = 0;  \nwhile (x <= 10) {  \n|\tSystem.out.println(x);  \n|\tx = x + 2;  \n}\n",
+      "Para simplificar, puedes escribir x = x + 2; como x += 2;. Este operador abreviado hace el código más limpio y legible. \nDel mismo modo, hay operadores abreviados para otras operaciones matemáticas, como -= para la resta, *= para la multiplicación y /= para la división. Estos operadores son herramientas muy prácticas para escribir bucles de manera eficiente."
+    ]
+  },
+  {
+    "npcID": 56,
+    "dialogos": [
+      "Los bucles no solo permiten iterar, sino que también son ideales para realizar cálculos repetidos. Por ejemplo, para calcular la suma de los números del 1 al 100, puedes usar un bucle como este: \nint sum = 0;\nint num = 0;\n\nwhile (num <= 100) {\n|\tsum += num;\n|\tnum++;\n}\nSystem.out.println(sum);",
+      "En este código, la variable num aumenta en cada iteración, y su valor se suma a sum. Al final del bucle, sum contendrá el resultado de nuestra operación.",
+      "Observa que la instrucción System.out.println(sum); está fuera del cuerpo del bucle. Esto asegura que el resultado completo se imprime solo después de que el bucle haya terminado."
+    ]
+  },
+  {
+    "npcID": 57,
+    "dialogos": [
+      "Una variante del bucle while en Java es el do-while, que asegura que el bloque de código se ejecute al menos una vez antes de verificar la condición. La estructura de un bucle do-while se ve así:\n int x = 1;\ndo {\n|\tSystem.out.println(x);\n|\tx++;\n} while (x < 5);\n",
+      "A diferencia del while, en el do-while la condición se evalúa al final del bucle. Esto significa que el código dentro del bloque se ejecutará una vez, incluso si la condición es falsa desde el principio.",
+      "Recuerda incluir el punto y coma (;) después de la condición while, ya que es obligatorio en esta estructura. Este tipo de bucle es útil cuando necesitas garantizar que una operación se realice al menos una vez antes de validar la condición."
+    ]
+  },
+  {
+    "npcID": 58,
+    "dialogos": [
+      "¡Atención, aventurero! Te hablaré del bucle for, una herramienta muy útil en programación.\nEste bucle se utiliza cuando necesitas repetir un bloque de código un número definido de veces, manteniendo todo organizado en una estructura compacta.",
+      "Por ejemplo, si quisieras imprimir los números del 1 al 4, podrías hacerlo así:\nfor (int x = 1; x < 5; x++) {\n|\tSystem.out.println(x);\n}\n",
+      "Dentro del bucle defines tres partes: la inicialización (int x = 1), la condición (x < 5) y cómo actualizar la variable (x++). Esto permite un control preciso sobre cuántas veces se ejecuta el código."
+    ]
+  },
+  {
+    "npcID": 59,
+    "dialogos": [
+      "El bucle for se compone de tres partes importantes que debes conocer. La primera parte inicializa la variable del bucle. Por ejemplo, en int x = 1, defines el valor inicial de x. Esta parte se ejecuta solo una vez, al comenzar el bucle.",
+      "La segunda parte es la condición que controla el bucle. En este caso, x < 5 verifica si el bucle debe continuar. Si la condición es falsa, el bucle se detiene. La tercera parte es la actualización de la variable, como x++, que se ejecuta al final de cada iteración para preparar la siguiente.",
+      "No olvides los puntos y comas (;) que separan estas tres partes en la declaración del bucle. Son esenciales para su correcto funcionamiento."
+    ]
+  },
+  {
+    "npcID": 60,
+    "dialogos": [
+      "¡Escucha bien, aventurero! El bucle for es muy flexible, permitiéndote usar cualquier tipo de condición e incremento según lo necesites. Por ejemplo, si solo quieres imprimir los números pares entre 0 y 10, podrías hacerlo así:\nfor (int x = 0; x <= 10; x += 2) {\n|\tSystem.out.println(x);\n}\n",
+      "Aquí, la condición x <= 10 asegura que el bucle se detenga al alcanzar 10, y el incremento x += 2 suma 2 a la variable en cada iteración.",
+      "El bucle for es ideal cuando conoces de antemano cuántas veces necesitas repetir un bloque de código. Esta característica lo hace una herramienta clave para tareas controladas y organizadas."
+    ]
+  },
+  {
+    "npcID": 61,
+    "dialogos": [
+      "¿Recuerdas la declaración break que aprendiste en los switch? También puedes usarla para terminar un bucle antes de que su condición se vuelva falsa.",
+      "int x = 1;  \nwhile (x < 10) {  \n|\tSystem.out.println(x);  \n|\tif (x == 4) { \n|\t|\tbreak;\n|\t|\t}\n|\tx++;\n}\nEste bucle se detendrá cuando x alcance el valor 4, ignorando el resto de las iteraciones.",
+      "Un caso práctico sería en una calculadora, donde tomas números del usuario para sumarlos. Si el usuario escribe \"stop\", podrías usar break para finalizar el bucle y salir del programa.",
+      "La declaración break es una herramienta muy poderosa para controlar el flujo de tus bucles, asegurando que puedas detenerlos cuando sea necesario."
+    ]
+  },
+  {
+    "npcID": 62,
+    "dialogos": [
+      "Aventurero, otra herramienta útil para controlar bucles es la declaración continue. Esta instrucción hace que el bucle salte la iteración actual y pase directamente a la siguiente. Por ejemplo: \nfor (int x = 10; x <= 40; x += 10) {\n|\tif (x == 30) {\n|\t|\tcontinue;\n|\t}\n|\tSystem.out.println(x);\n}\nEn este caso, el valor 30 se omitirá, ya que la declaración continue salta la iteración correspondiente.",
+      "Un caso práctico sería en un sistema de boletos aéreos que calcula el costo total para todos los pasajeros. Si los niños menores de 3 años viajan gratis, puedes usar un bucle para iterar por la lista de pasajeros y una declaración continue para saltarte a los niños.",
+      "Esta instrucción es muy útil cuando necesitas ignorar ciertos casos específicos sin detener el bucle por completo."
+    ]
+  },
+  {
+    "npcID": 63,
+    "dialogos": [
+      "Aventurero, imagina que necesitas guardar las edades de 10 usuarios. Usar una variable para cada edad sería poco eficiente y tedioso. Aquí es donde los array vienen al rescate. Un array permite almacenar múltiples valores en una sola variable, lo que hace que tu código sea mucho más organizado y fácil de manejar. Por ejemplo, en lugar de crear 10 variables separadas, puedes usar un array para guardar las edades de todos los usuarios en un solo lugar. Los array son especialmente útiles cuando trabajas con grandes cantidades de datos que necesitan ser procesados juntos. ¡Son una herramienta clave en la programación eficiente!",
+      "En programación, un array debe declararse de manera similar a una variable, indicando el tipo de elementos que almacenará. Para declarar un array, se define el tipo de sus elementos seguido de corchetes:\n int[] ages;\n En este caso, el nombre del array es ages, y su tipo indica que almacenará valores enteros (int).",
+      "Esta declaración solo define el array, pero no lo inicializa con valores. Más adelante, aprenderás cómo asignar y trabajar con los elementos de un array."
+    ]
+  },
+  {
+    "npcID": 64,
+    "dialogos": [
+      "Para crear un array, necesitas especificar cuántos elementos almacenará utilizando la palabra clave new. Por ejemplo:\n\nint[] ages;\nages = new int[5];\nEsto crea un array de 5 enteros, listo para usarse.",
+      "También puedes combinar estas dos líneas en una sola para mayor claridad:\n\n int[] ages = new int[5];\n",
+      "Este enfoque es común cuando sabes desde el principio el tamaño del array que necesitas. ¡Ahora estás listo para almacenar múltiples valores en una sola estructura!"
+    ]
+  },
+  {
+    "npcID": 65,
+    "dialogos": [
+      "Los elementos de un array se acceden utilizando su posición, también conocida como índice.\nPor ejemplo, para asignar el valor 25 al elemento en la posición 2 de un array llamado ages, puedes escribir:\n ages[2] = 25;",
+      "El índice se especifica entre corchetes junto al nombre del array. Recuerda que los índices en Java comienzan desde 0, por lo que el primer elemento está en la posición 0.",
+      "Este enfoque te permite acceder y modificar valores individuales dentro del array de manera rápida y eficiente."
+    ]
+  },
+  {
+    "npcID": 66,
+    "dialogos": [
+      "En un array, el índice 2 corresponde al tercer elemento. Esto ocurre porque los índices en Java comienzan en 0.\n Por ejemplo, en un array de 5 elementos (int[5]), el primer elemento tiene el índice 0, y el último tiene el índice 4.",
+      "Si quieres asignar un valor al primer elemento, puedes hacerlo así:\nages[0] = 18;\n\nPara acceder al valor de un elemento, utiliza también el índice. Por ejemplo:\nSystem.out.println(ages[2]);",
+      "System.out.println(ages[2]);\n\n En este caso, el valor asignado al tercer elemento (ages[2] = 25) será mostrado en pantalla. Recuerda siempre tener en cuenta los índices al trabajar con arrays para evitar errores."
+    ]
+  },
+  {
+    "npcID": 67,
+    "dialogos": [
+      "Si ya conoces los valores que quieres almacenar en un array, puedes declararlo y asignar sus valores en una sola línea utilizando una lista separada por comas y encerrada entre llaves.\nPor ejemplo:\n\nString[] names = { \"A\", \"B\", \"C\", \"D\" };\nSystem.out.println(names[2]);\nEste código crea automáticamente un array de 4 elementos y asigna los valores especificados.",
+      "Aunque a veces podrías ver los corchetes colocados después del nombre del array (por ejemplo, String names[]), la forma preferida es colocarlos después del tipo de dato, como en String[] names.",
+      "Este método es ideal para inicializar arrays de manera rápida y clara cuando conoces de antemano los valores que necesitas almacenar."
+    ]
+  },
+  {
+    "npcID": 68,
+    "dialogos": [
+      "Para mostrar los elementos de un array usando un bucle, primero necesitas saber cuántos elementos almacena. Los arrays tienen una propiedad llamada length, que indica la cantidad de elementos que contiene. Puedes acceder a esta propiedad así:\n int[] ages = {18, 33, 24, 64, 45};\nSystem.out.println(ages.length);\n\nEste código imprimirá el número total de elementos del array, que en este caso es 5.",
+      "Esta propiedad es especialmente útil para recorrer un array con un bucle, ya que garantiza que no intentarás acceder a índices fuera de su rango.",
+      "Usar length te permite trabajar con arrays de manera flexible, sin importar cuántos elementos almacenen."
+    ]
+  },
+  {
+    "npcID": 69,
+    "dialogos": [
+      "Una vez que conoces cuántos elementos tiene un array, puedes usar un bucle for para recorrerlo y mostrar todos sus elementos. Por ejemplo, con este código:\nint[] ages = {18, 33, 24, 64, 45};\nfor (int x = 0; x < ages.length; x++) {\n|\tSystem.out.println(ages[x]);\n}\n\nEn este caso, la variable x del bucle se utiliza como índice del array. En cada iteración, se accede al siguiente elemento del array y se muestra en pantalla.",
+      "Este enfoque asegura que recorres todos los elementos del array, desde el índice 0 hasta el índice length - 1, de manera eficiente y organizada."
+    ]
+  },
+  {
+    "npcID": 70,
+    "dialogos": [
+      "También puedes usar un bucle for para realizar cálculos con los valores de un array. Por ejemplo, para calcular la suma de todos los elementos. Observa este código:\n int[] ages = {18, 33, 24, 64, 45};\nint sum = 0;\nfor (int x = 0; x < ages.length; x++) {\n|\tsum += ages[x];\n}\nSystem.out.println(sum); \nAquí, declaramos una variable sum para almacenar el resultado, inicializándola en 0. Luego, el bucle for recorre el array y añade cada elemento a sum.",
+      "Este enfoque es muy útil cuando necesitas calcular totales, promedios u otras operaciones basadas en los valores de un array."
+    ]
+  },
+  {
+    "npcID": 71,
+    "dialogos": [
+      "Java ofrece una versión más simple del bucle for, llamada for-each, que se utiliza para recorrer arrays de manera más corta y legible. Este es un ejemplo básico:\nint[] nums = {2, 3, 5, 7};\nfor (int x : nums) {\n|\tSystem.out.println(x);\n}\nEl bucle recorre cada elemento del array nums, asignando su valor a la variable x en cada iteración.",
+      "Puedes usar cualquier nombre para la variable, pero siempre recuerda colocar dos puntos (:) entre la variable y el array. Esto se interpreta como \"para cada x en nums\".Aquí tienes otro ejemplo para calcular la suma de los valores de un array:\nint[] ages = {18, 33, 24, 64, 45};\nint sum = 0;\nfor (int x : ages) {\n|\tsum += x;\n}\nSystem.out.println(sum);\nEn este caso, el bucle accede directamente a los valores, pero no al índice de cada elemento. El enfoque for-each es ideal para iterar cuando solo necesitas los valores del array y no su posición."
+    ]
+  },
+  {
+    "npcID": 72,
+    "dialogos": [
+      "Los arrays multidimensionales, también llamados matrices, te permiten trabajar con datos organizados en varias dimensiones o índices.\nImagina un programa que almacena números de asientos en un estadio (filas y columnas) o un tablero de ajedrez, donde cada casilla tiene dos coordenadas: una letra y un número. En estos casos, necesitarás una matriz de dos dimensiones.",
+      "Para crear una matriz, puedes utilizar dos pares de corchetes:\nint[][] sample = { {1, 2, 3}, {4, 5, 6} };\n\nAquí, la matriz sample tiene dos filas: la primera contiene los números {1, 2, 3} y la segunda {4, 5, 6}.",
+      "Los arrays multidimensionales son muy útiles para representar tablas, gráficos o estructuras más complejas en tus programas."
+    ]
+  },
+  {
+    "npcID": 73,
+    "dialogos": [
+      "Para acceder a un elemento en una matriz (array multidimensional), necesitas proporcionar dos índices: uno para la fila y otro para la columna. Por ejemplo, en la siguiente matriz: \n int[][] sample = { {1, 2, 3}, {4, 5, 6} };\nSi deseas acceder al primer elemento de la segunda fila, puedes usar:\nint x = sample[1][0];\nSystem.out.println(x);\nEsto imprimirá 4, ya que sample[1] se refiere a la segunda fila, y [0] selecciona el primer elemento de esa fila.",
+      "Este enfoque te permite navegar y trabajar con datos organizados en filas y columnas, como tablas o tableros."
+    ]
+  },
+  {
+    "npcID": 74,
+    "dialogos": [
+      "En una matriz (array multidimensional), los dos índices se llaman índice de fila y índice de columna.",
+      "Visualiza la matriz como una tabla: cada fila es un array, y cada columna representa un valor dentro de esa fila. Por ejemplo:\nint[][] sample = { \n|\t    {1, 2, 3}, \n|\t   {4, 5, 6} \n}; \nint x = sample[1][0];\nSystem.out.println(x);\nAquí, sample[1] selecciona la segunda fila ({4, 5, 6}), y [0] accede al primer elemento de esa fila (4).",
+      "Este enfoque es ideal para representar estructuras organizadas como tablas, tableros de juego o datos en cuadrículas."
+    ]
+  },
+  {
+    "npcID": 75,
+    "dialogos": [
+      "Para recorrer una matriz (array multidimensional), necesitas usar bucles anidados.\nEl primer bucle recorre las filas de la matriz, mientras que el segundo bucle recorre los elementos dentro de cada fila.",
+      "Por ejemplo:\nint[][] sample = {\n|\t{1, 2, 3},\n|\t{4, 5, 6}\n};\nfor (int x = 0; x < sample.length; x++) {\n|\tfor (int y = 0; y < sample[x].length; y++) {\n|\t|\tSystem.out.println(sample[x][y]);\n|\t}\n}",
+      "Este código imprimirá todos los elementos de la matriz, comenzando por la primera fila y continuando con la segunda. Es una forma eficiente de trabajar con estructuras organizadas en filas y columnas."
+    ]
+  },
+  {
+    "npcID": 76,
+    "dialogos": [
+      "Un método es un bloque de código diseñado para realizar una tarea específica dentro de un programa.\nPor ejemplo, en una aplicación podrías tener métodos como login(), logout() o convert(), cada uno encargado de una función concreta.",
+      "Incluso println(), que hemos utilizado para mostrar información en la pantalla, es un método.\n\n La principal ventaja de los métodos es que los defines una vez y luego puedes llamarlos tantas veces como necesites, haciendo tu código más organizado, reutilizable y fácil de mantener."
+    ]
+  },
+  {
+    "npcID": 77,
+    "dialogos": [
+      "Puedes definir tus propios métodos para realizar las tareas que desees en tu programa. Por ejemplo, el siguiente método imprime tres líneas de texto:\nstatic void welcome() {\n|\tSystem.out.println(\"Hola\");\n|\tSystem.out.println(\"Soy un método\");\n|\tSystem.out.println(\"Fin del método\");\n}",
+      "En ese caso: \n- static se utiliza para que puedas llamar al método directamente desde main. Aprenderás más sobre esta palabra clave más adelante.\n- void indica que el método no devuelve ningún valor. Más adelante aprenderás sobre métodos con valores de retorno.\n- welcome es el nombre del método, y siempre va seguido de paréntesis ().\n\nstatic void welcome()",
+      "Los métodos hacen que tu código sea más organizado y fácil de reutilizar, ya que puedes llamarlos cuando necesites realizar una tarea específica."
+    ]
+  },
+  {
+    "npcID": 78,
+    "dialogos": [
+      "Después de definir un método, puedes usarlo en tu programa simplemente 'llamándolo'.\nPara llamar a un método, escribe su nombre seguido de un par de paréntesis ().",
+      "Por ejemplo:\npublic class Demo {\n|\tstatic void welcome() {\n|\t|\tSystem.out.println(\"Bienvenido\"); \n|\t|\tSystem.out.println(\"Soy un método\"); \n|\t|\tSystem.out.println(\"Fin del método\"); \n|\t}\n|\tpublic static void main(String[] args) {\n|\t|\twelcome();\n|\t}\n}",
+      "Cuando ejecutas el programa, la línea welcome(); llama al método, lo que hace que se ejecute y muestre las tres líneas de texto definidas dentro de él.\nLos métodos son una forma eficiente de organizar y reutilizar bloques de código en tus programas."
+    ]
+  },
+  {
+    "npcID": 79,
+    "dialogos": [
+      "Un método puede ser llamado tantas veces como sea necesario dentro de tu programa, lo que lo hace muy útil para realizar tareas repetitivas. Por ejemplo:",
+      "public class Demo {\n|\tstatic void welcome() {\n|\t|\tSystem.out.println(\"Bienvenido\"); \n|\t|\tSystem.out.println(\"Soy un método\"); \n|\t|\tSystem.out.println(\"Fin del método\"); \n|\t}\n|\tpublic static void main(String[] args) {\n|\t|\twelcome(); // Primera llamada al método\n|\t|\t//Algún otro código aquí\n|\t|\twelcome(); // Segunda llamada al método\n|\t}\n}",
+      "En este ejemplo, el método welcome() se llama dos veces, lo que hace que su bloque de código se ejecute en ambas ocasiones.\nEsta capacidad de reutilizar métodos simplifica tu programa y evita que tengas que escribir el mismo código varias veces."
+    ]
+  },
+  {
+    "npcID": 80,
+    "dialogos": [
+      "Los métodos pueden tener parámetros, que funcionan como variables que se utilizan dentro del código del método. Los parámetros se definen dentro de los paréntesis del método. Por ejemplo: \nstatic void welcome(String name) {\n|\tSystem.out.println(\"Bienvenido, \" + name);\n}\nEn este ejemplo, el método welcome() se llama dos veces, lo que hace que su bloque de código se ejecute en ambas ocasiones.\nEsta capacidad de reutilizar métodos simplifica tu programa y evita que tengas que escribir el mismo código varias veces.",
+      "Los parámetros hacen que los métodos sean más flexibles y reutilizables, permitiendo que realicen tareas dinámicas según los valores que les pases al llamarlos."
+    ]
+  },
+  {
+    "npcID": 81,
+    "dialogos": [
+      "Cuando llamas a un método que tiene parámetros, debes pasarle valores dentro de los paréntesis. Estos valores se conocen como argumentos.\n Por ejemplo:",
+      "En este caso, el método welcome genera resultados personalizados según los argumentos pasados. Cuando se llama con \"James\", imprime \"Bienvenido, James\". Cuando se llama con \"Amy\", imprime \"Bienvenido, Amy\".\nclass Demo {\n|\tstatic void welcome(String name) {\n|\t|\tSystem.out.println(\"Bienvenido, \" + name);\n|\t}\n|\tpublic static void main(String[] args) {\n|\t|\twelcome(\"James\"); // Llamada con el argumento \"James\"\n|\t|\twelcome(\"Amy\"); // Llamada con el argumento \"Amy\"\n|\t}\n}",
+      "Usar argumentos permite que los métodos sean más dinámicos y versátiles, adaptándose a diferentes situaciones en tu programa."
+    ]
+  },
+  {
+    "npcID": 82,
+    "dialogos": [
+      "Un método puede aceptar múltiples parámetros, separados por comas dentro de los paréntesis. Esto te permite realizar tareas más complejas y flexibles.\nPor ejemplo, este método toma un String y un int como parámetros:\nstatic void welcome(String name, int age) {\n|\tSystem.out.println(\"Bienvenido, \" + name);\n|\tSystem.out.println(\"Tienes: \" + age + \" años\");\n}",
+      "Al llamar al método, debes proporcionar los argumentos correspondientes en el mismo orden que los parámetros:\nclass Demo {\n|\tpublic static void main(String[] args) {\n|\t|\twelcome(\"James\", 42); // Llamada con los argumentos \"James\" y 42\n|\t|\twelcome(\"Amy\", 25);   // Llamada con los argumentos \"Amy\" y 25\n|\t}\n}",
+      "Es importante que los argumentos coincidan en tipo y orden con los parámetros definidos en el método. Esto asegura que el método funcione correctamente y produzca los resultados esperados."
+    ]
+  },
+  {
+    "npcID": 83,
+    "dialogos": [
+      "Los parámetros de los métodos son increíblemente útiles porque permiten que un método trabaje con diferentes valores y genere resultados dinámicos.\n Por ejemplo, puedes crear un método para calcular un porcentaje específico de un número:\n",
+      "class Demo {\n|\tstatic void perc(double num, int percentage) {\n|\t|\tdouble res = num * percentage / 100;\n|\t|\tSystem.out.println(res);\n|\t}\n|\tpublic static void main(String[] args) {\n|\t|\tperc(530, 23); // Llama al método con los valores 530 y 23\n|\t}\n}\nEn este caso, el método perc toma un número (num) y un porcentaje (percentage) como parámetros, calcula el resultado y lo imprime.",
+      "Este enfoque hace que tus métodos sean más versátiles, ya que pueden trabajar con distintos argumentos y producir resultados adaptados a diferentes situaciones."
+    ]
+  },
+  {
+    "npcID": 84,
+    "dialogos": [
+      "Los métodos que hemos visto hasta ahora muestran sus resultados directamente, pero en algunos casos podrías necesitar que un método devuelva un valor para asignarlo a una variable o usarlo en otra parte del programa.\n Para esto, debes cambiar el tipo de retorno del método. Por ejemplo, en lugar de usar void, puedes especificar un tipo como double para que el método devuelva un valor numérico:\nstatic double perc(double num, int percentage) {\n|\t.........\n}\nEsto significa que el método perc devolverá un valor de tipo double, en lugar de simplemente imprimirlo.",
+      "Este enfoque es útil cuando necesitas trabajar con el resultado en otras operaciones o almacenarlo para un uso posterior. Continua y aprenderás más sobre cómo usar valores retornados."
+    ]
+  },
+  {
+    "npcID": 85,
+    "dialogos": [
+      "Para que un método devuelva un resultado, puedes usar la palabra clave return.\nPor ejemplo, este método calcula un porcentaje y devuelve el resultado:\nstatic double perc(double num, int percentage) {\n|\tdouble res = num * percentage / 100;\n|\treturn res;\n}\nLa palabra clave return finaliza la ejecución del método y envía el valor calculado de vuelta al lugar donde fue llamado.",
+      "Ten en cuenta que cualquier instrucción después de return dentro del método no se ejecutará, ya que el método termina en ese punto."
+    ]
+  },
+  {
+    "npcID": 86,
+    "dialogos": [
+      "Una vez que has creado un método que devuelve un valor, puedes llamarlo en tu programa y asignar el resultado a una variable para usarlo más adelante.\nPor ejemplo:\n",
+      "class Demo {\n|\tstatic double perc(double num, int percentage) {\n|\t|\tdouble res = num * percentage / 100;\n|\t|\treturn res;\n|\t}\n|\tpublic static void main(String[] args) {\n|\t|\tdouble x = perc(530, 23); // Llama al método y asigna el resultado a 'x'\n|\t|\tSystem.out.println(\"Resultado is: \" + x);\n|\t}\n}",
+      "Este enfoque es útil cuando no necesitas imprimir el resultado directamente, sino trabajar con él dentro de tu programa.\nPor ejemplo, un método withdraw() en una cuenta bancaria podría devolver el saldo restante, permitiéndote usar ese valor para otras operaciones."
+    ]
+  },
+  {
+    "npcID": 87,
+    "dialogos": [
+      "Puedes crear un método que tome un parámetro entero, verifique si una calificación es mayor o igual a 70, y devuelva un valor booleano.\n\n Por ejemplo:",
+      "class Demo {\n|\tstatic boolean check(int grade) {\n|\t|\treturn grade >= 70;\n|\t}\n|\tpublic static void main(String[] args) {\n|\t|\tint x = 89;\n|\t|\tif (check(x)) {\n|\t|\t|\tSystem.out.println(\"Pasas el curso\");{\n|\t|\t} else {\n|\t|\t|\tSystem.out.println(\"Suspendes el curso\");\n|\t|\t}\n|\t}\n}",
+      "Como el método check devuelve un valor booleano, puedes usarlo directamente en una declaración if.\nEste enfoque es muy práctico: si necesitas cambiar la lógica del chequeo en el futuro, solo deberás modificar el método, manteniendo el resto del programa intacto."
+    ]
+  },
+  {
+    "npcID": 88,
+    "dialogos": [
+      "¡Hola de nuevo, valiente aventurero! Has llegado finalmente a la imponente mansión de Bugger. El aire aquí está pesado, cargado de la maldad que emana de las sombras y los errores que su ejército de bugs ha sembrado por todo el reino. Espero que hayas aprendido todo lo que te hemos enseñado, porque lo necesitarás más que nunca en este último enfrentamiento. Recuerda, los conocimientos de Java que has adquirido son tus armas más poderosas. Cada línea de código, cada algoritmo, cada concepto de programación se convertirá en una herramienta para derrotar al malvado Bugger. Confío en que serás capaz de enfrentarte a él, de depurar y destruir cada uno de los obstáculos que te han preparado. ¡La batalla final está cerca! Tus aprendizajes, tu perseverancia y tu valor serán los que marquen la diferencia. Estás a punto de enfrentarte al mal más grande de todos, pero sé que eres capaz. Buena suerte, aventurero. Que el código esté contigo, ¡y que logres salvar el reino de una vez por todas!"
+    ]
+  }
+]
